@@ -1,0 +1,1 @@
+INSERT INTO developers (first_name, last_name, specialty, experience) VALUES ('Jeck', 'Popov', 'Java', '7');
